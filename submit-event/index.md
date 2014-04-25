@@ -3,7 +3,7 @@ layout: markdown
 title: How to Submit an Event
 ---
 
-SKGTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=2ul10sd9g30mnk1vpmcnnp5qv4%40group.calendar.google.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within the repository and [reside in the _data/pinnedAgenda.yaml file](https://github.com/skgtech/skgtech.github.io/blob/master/_data/pinnedAgenda.yaml). The *Pinned* events will appear after all the Calendar events.
+SKGTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=2ul10sd9g30mnk1vpmcnnp5qv4%40group.calendar.google.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within the repository and [reside in the _data/pinnedAgenda.yaml file](https://github.com/athtech/athtech.github.io/blob/master/_data/pinnedAgenda.yaml). The *Pinned* events will appear after all the Calendar events.
 
 What you need to do is create a new Calendar event from your Gmail account and invite the SKGTech Public Calendar:
 
@@ -59,10 +59,10 @@ You need to paste the following email address in the "Add Guests" field and pres
 
 We know this is hard to remember so if you are a frequent event organizer then it would make sense to create a new contact "SKGTech Calendar" and save the email there...
 
-That was it, you can now *Save* the new event and as soon as we accept the invitation it will automatically be propagated to the live [skgtech.io](http://skgtech.io) website.
+That was it, you can now *Save* the new event and as soon as we accept the invitation it will automatically be propagated to the live [athtech.io](http://athtech.io) website.
 
 If all of this sounds too complicated for you, you can then [try the Online Form of shame](https://docs.google.com/forms/d/15OfvYWpwuFXW-zOMOWFoYR6skHUNqzEdJts5hWtcL08/viewform).
 
 ## Contributors and Maintainers
 
-If you know your way with Github, editing and updating the communities and the pinned agenda items is very simple, just [edit the `_data/communities.yaml` or `_data/pinnedAgenda.yaml` files](https://github.com/skgtech/skgtech.github.io/blob/master/_data/) and send a Pull Request.
+If you know your way with Github, editing and updating the communities and the pinned agenda items is very simple, just [edit the `_data/communities.yaml` or `_data/pinnedAgenda.yaml` files](https://github.com/athtech/athtech.github.io/blob/master/_data/) and send a Pull Request.
