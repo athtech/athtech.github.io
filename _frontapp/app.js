@@ -1,9 +1,9 @@
 /*
- * SKG Tech
+ * ATH Tech
  * Thessaloniki Tech Events and Meetups
  * https://github.com/athtech/athtech.github.io
  *
- * Copyright (c) 2014 SKG Tech Contributors.
+ * Copyright (c) 2014 ATH Tech Contributors.
  * Licensed under the MIT license.
  */
 /**
