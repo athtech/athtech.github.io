@@ -1,6 +1,6 @@
 /*
  * ATH Tech
- * Thessaloniki Tech Events and Meetups
+ * Athens Tech Events and Meetups
  * https://github.com/athtech/athtech.github.io
  *
  * Copyright (c) 2014 ATH Tech Contributors.

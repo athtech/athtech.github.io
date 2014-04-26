@@ -1,6 +1,6 @@
 # [athtech.github.io](http://athtech.org)
 
-Thessaloniki's tech and developer Events, Meetups & News.
+Athens's tech and developer Events, Meetups & News.
 
 ## Meetup Organizers
 
@@ -21,13 +21,13 @@ In the **Where** field you need to enter a Google Maps resolvable address, meani
 ##### A Good Address
 
 ```
-Mitropoleos 110, Thessaloniki, 54621, Greece
+Charilaou Trikoupi 18, Athens, 10679, Greece
 ```
 
 ##### A Bad Address
 
 ```
-Mitropoleos 110, 2nd floor
+Charilaou Trikoupi 18, 5th floor
 ```
 
 #### The Event Description

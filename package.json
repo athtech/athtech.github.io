@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "thessaloniki",
+  "name": "athens",
   "version": "0.0.1",
-  "description": "Thessaloniki tech community",
+  "description": "Athens tech community",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.4",
@@ -23,18 +23,18 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/thessaloniki/meetups.git"
+    "url": "git://github.com/athens/meetups.git"
   },
   "bugs": {
-    "url": "https://github.com/thessaloniki/meetups/issues"
+    "url": "https://github.com/athens/meetups/issues"
   },
   "keywords": [
-    "thessaloniki",
+    "athens",
     "ath"
   ],
   "author": {
-    "name": "Thessaloniki",
-    "url": "http://github.com/thessaloniki"
+    "name": "Athens",
+    "url": "http://github.com/athens"
   },
   "contributors": [
     {

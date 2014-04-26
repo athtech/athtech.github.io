@@ -14,7 +14,7 @@ pygments: auto
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : "Thessaloniki Community, Events & Meetups"
+title : "Athens Community, Events & Meetups"
 tagline: "The insiders ATH scoop"
 author :
   name : "athtech contributors"
@@ -37,7 +37,7 @@ production_url : http://athtech.org
 # Open Graph data
 og:
   app_id: "698696243515776"
-  title: "Thessaloniki tech and developer Meetups"
+  title: "Athens tech and developer Meetups"
   site_name: "ATHTech"
   image: "https://pbs.twimg.com/profile_images/453243331691020288/pk_2bTE9.png"
 

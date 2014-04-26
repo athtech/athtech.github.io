@@ -1,9 +1,9 @@
 /*jshint camelcase:false */
 /*
- * thessaloniki meetups
- * https://github.com/thessaloniki/meetups
+ * athens meetups
+ * https://github.com/athens/meetups
  *
- * Copyright (c) 2014 Thessaloniki contributors
+ * Copyright (c) 2014 Athens contributors
  * Licensed under the MIT license.
  */
 module.exports = function(grunt) {
