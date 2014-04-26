@@ -38,7 +38,7 @@ production_url : http://athtech.org
 og:
   app_id: "698696243515776"
   title: "Thessaloniki tech and developer Meetups"
-  site_name: "SKGTech"
+  site_name: "ATHTech"
   image: "https://pbs.twimg.com/profile_images/453243331691020288/pk_2bTE9.png"
 
 
@@ -134,4 +134,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
