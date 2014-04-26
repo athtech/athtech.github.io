@@ -59,7 +59,7 @@ You need to paste the following email address in the "Add Guests" field and pres
 
 We know this is hard to remember so if you are a frequent event organizer then it would make sense to create a new contact "SKGTech Calendar" and save the email there...
 
-That was it, you can now *Save* the new event and as soon as we accept the invitation it will automatically be propagated to the live [athtech.io](http://athtech.io) website.
+That was it, you can now *Save* the new event and as soon as we accept the invitation it will automatically be propagated to the live [athtech.org](http://athtech.org) website.
 
 If all of this sounds too complicated for you, you can then [try the Online Form of shame](https://docs.google.com/forms/d/15OfvYWpwuFXW-zOMOWFoYR6skHUNqzEdJts5hWtcL08/viewform).
 
