@@ -3,7 +3,7 @@ layout: markdown
 title: How to Submit an Event
 ---
 
-ATHTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=2ul10sd9g30mnk1vpmcnnp5qv4%40group.calendar.google.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within the repository and [reside in the _data/pinnedAgenda.yaml file](https://github.com/athtech/athtech.github.io/blob/master/_data/pinnedAgenda.yaml). The *Pinned* events will appear after all the Calendar events.
+ATHTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=oo1mlkql8sma2b3pkg6i23qtdc%40group.calendar.google.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within the repository and [reside in the _data/pinnedAgenda.yaml file](https://github.com/athtech/athtech.github.io/blob/master/_data/pinnedAgenda.yaml). The *Pinned* events will appear after all the Calendar events.
 
 What you need to do is create a new Calendar event from your Gmail account and invite the ATHTech Public Calendar:
 
@@ -54,7 +54,7 @@ Map: https://www.google.com/maps?q=Ethnikis+Antistaseos+17,+Kalamaria,+Thessalon
 You need to paste the following email address in the "Add Guests" field and press the "Add" button:
 
 ```
-2ul10sd9g30mnk1vpmcnnp5qv4@group.calendar.google.com
+oo1mlkql8sma2b3pkg6i23qtdc@group.calendar.google.com
 ```
 
 We know this is hard to remember so if you are a frequent event organizer then it would make sense to create a new contact "ATHTech Calendar" and save the email there...
