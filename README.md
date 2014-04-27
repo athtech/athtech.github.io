@@ -64,7 +64,7 @@ We know this is hard to remember so if you are a frequent event organizer then i
 
 That was it, you can now *Save* the new event and as soon as we accept the invitation it will automatically be propagated to the live [athtech.org](athtech.org) website.
 
-If all of this sounds too complicated for you, you can then [try the Online Form of shame](https://docs.google.com/forms/d/15OfvYWpwuFXW-zOMOWFoYR6skHUNqzEdJts5hWtcL08/viewform).
+If all of this sounds too complicated for you, you can then [try the Online Form of shame](https://docs.google.com/forms/d/1RZuusrqD0NAiylT45QBZPSLFUa52OsJf7Hks3EdGC4w/viewform).
 
 ## Contributors and Maintainers
 
