@@ -13,3 +13,9 @@
     - name: "John Pagonis"
     - name: "Vassilis Vatikiotis"
     - name: "Giorgos Tsiftsis"
+- name: "AWS Usergroup"
+  period: "Quarterly"
+  description: "Greek usergroup about Amazon Web Services. Our objective is to build a dynamic local community of individual developers, start-ups, and enterprise architects that will share ideas, learnings and best practices about the Amazon cloud. Follow @awsuggr on twitter!"
+  website: "http://www.meetup.com/awsuggr/"
+  maintainers:
+    - name: "Leonidas Tsementzis"
