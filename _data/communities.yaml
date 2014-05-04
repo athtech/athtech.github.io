@@ -44,3 +44,13 @@
   maintainers:
     - name: "Thanassis Parathyras"
     - name: "Spiros Kapetanakis"
+- name: "Agile Greece"
+  period: "Monthly"
+  description: "We believe that following a Lean thinking and growing an Agile mindset could help us, as individuals, to get improved and trigger some positive changes in our organisations. "
+  website: "http://www.meetup.com/Agile-Greece/"
+  twitter: "https://twitter.com/AgileGRmeetup"
+  maintainers:
+    - name: "Yiannis Mavraganis (ymavra at gmail dot com)"
+    - name: "George Psistakis (g.psistakis at gmail dot com)"
+    - name: "Nikos Batsios (nbatsios at gmail dot com)"
+    - name: "Patroklos Papapetrou (ppapapetrou76 at gmail dot com)"
