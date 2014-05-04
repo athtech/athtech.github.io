@@ -4,7 +4,9 @@
   </div>
   <div class="panel-body">
     <ul>
+      {% if include.meetup.period %}
       <li><b>Period</b>: {{ include.meetup.period }}</li>
+      {% endif %}
       {% if include.meetup.happensAt %}
       <li><b>Happens At</b>: {{ include.meetup.happensAt }}</li>
       {% endif %}
