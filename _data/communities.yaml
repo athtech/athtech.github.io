@@ -12,7 +12,7 @@
       email: "greece@appsterdam.rs"
     - name: "Panagiotis Xinos"
       email: "panagiotis.xinos@gmail.com"
-- name: "Cocoaheads Greece"
+- name: "CocoaHeads Greece"
   period: "Quarterly"
   happensAt: "2nd Thursday of each month"
   description: "A bunch of developers dedicated to the discussion of the Cocoa Framework for writing software on MacOS and iOS."
