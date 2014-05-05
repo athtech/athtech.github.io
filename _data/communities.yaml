@@ -12,6 +12,8 @@
       email: "greece@appsterdam.rs"
     - name: "Panagiotis Xinos"
       email: "panagiotis.xinos@gmail.com"
+    - name: "Leonidas Apostolidis"
+      emai: "leoapost@gmail.com"
 - name: "CocoaHeads Greece"
   period: "Quarterly"
   happensAt: "2nd Thursday of each month"
@@ -20,6 +22,8 @@
   twitter: "https://twitter.com/CocoaheadsGR"
   maintainers:
     - name: "Dimitris James Tsiflitzis"
+    - name: "Leonidas Apostolidis"
+      emai: "leoapost@gmail.com"
 - name: "Open Coffee"
   period: "Monthly"
   happensAt: "Last Friday of each month"
