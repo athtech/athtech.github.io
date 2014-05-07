@@ -91,3 +91,22 @@
       website: "http://toleemedia.com/"
     - name: "Kyros Vogiatzoglou"
       website: "http://www.realmedia.gr/?page_id=115"
+- name: "HGDA"
+  website: "http://www.hgda.gr/"
+  description: "Hellenic Game Developers Association"
+  maintainers:
+    - name: "Tasos Flambouras"
+      website: "https://twitter.com/tasosflambouras"
+- name: "Greece GTUG"
+  website: "http://www.greece-gtug.org"
+  description: "Welcome to the user group of Greece GTUG. Google Technology User Groups (GTUGs) are user groups for people who are interested in Google's developer technology; everything from the Android and App Engine platforms, to product APIs like the YouTube API and the Google Calendar API, to initiatives like OpenSocial."
+  maintainers:
+    - name: "Panayiotis Papadopoulos"
+    - name: "Dio Synodinos"
+- name: "GreeceJS"
+  website: "http://greecejs.org/"
+  description: "A group of people who are interested on various Javascript client side (client-side, HTML, CSS) and server side (Node.js, AppEngineJS, RingoJS) topics."
+  maintainers:
+    - name: "Panayiotis Papadopoulos"
+    - name: "Dio Synodinos"
+
