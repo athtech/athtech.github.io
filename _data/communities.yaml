@@ -109,7 +109,7 @@
   maintainers:
     - name: "Panayiotis Papadopoulos"
     - name: "Dio Synodinos"
-ame: "Java Hellenic User Group"
+- name: "Java Hellenic User Group"
   website: "http://www.jhug.gr/"
   description: "JHUG, is the very first Java User group in Greece, founded in 2001 by a handful of Java enthusiasts and professionals. It was initially formed as a small online community, active through small Greek bulletin boards, contributing java related material and tutorials in the Greek language."
   maintainers:
