@@ -97,12 +97,16 @@
   maintainers:
     - name: "Tasos Flambouras"
       website: "https://twitter.com/tasosflambouras"
-- name: "Greece GTUG"
-  website: "http://www.greece-gtug.org"
-  description: "Welcome to the user group of Greece GTUG. Google Technology User Groups (GTUGs) are user groups for people who are interested in Google's developer technology; everything from the Android and App Engine platforms, to product APIs like the YouTube API and the Google Calendar API, to initiatives like OpenSocial."
+- name: "GDG Athens"
+  website: "https://developers.google.com/groups/chapter/113791237868247187504/"
+  description: 'Google Developer Group (GDG) Athens aims at creating a vibrant and productive Google-focused community. We want to bring together passion 4 Innovation, to share latest developments, to ignite creativity and productivity so to create "The Playground".'
   maintainers:
-    - name: "Panayiotis Papadopoulos"
-    - name: "Dio Synodinos"
+    - name: "Panayotis Tzinis"
+      site: "https://plus.google.com/+PanayotisTzinis"
+    - name: "Andreas Daroudis"
+      site: "https://plus.google.com/100319741549578955158"
+    - name: "Pavlos-Petros Tournaris"
+      site: "https://plus.google.com/+PavlosPetrosTournaris"
 - name: "GreeceJS"
   website: "http://greecejs.org/"
   description: "A group of people who are interested on various Javascript client side (client-side, HTML, CSS) and server side (Node.js, AppEngineJS, RingoJS) topics."
