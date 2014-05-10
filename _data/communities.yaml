@@ -18,7 +18,7 @@
   period: "Quarterly"
   happensAt: "2nd Thursday of each month"
   description: "A bunch of developers dedicated to the discussion of the Cocoa Framework for writing software on MacOS and iOS."
-  website: "http://cocoaheads.gr/"
+  website: "http://www.meetup.com/CocoaHeadsGR/"
   twitter: "https://twitter.com/CocoaheadsGR"
   maintainers:
     - name: "Dimitris James Tsiflitzis"
