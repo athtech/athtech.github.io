@@ -122,4 +122,18 @@
     - name: "Panos Konstantinides"
     - name: "Kostis Kapelonis"
     - name: "Spiros Anastasopoulos"
+- name: "API Athens"
+  website: "http://www.meetup.com/API-Athens/?"
+  description: "This meetup is for people who build, use, explore or want to learn more about APIs. The purpose of this group is to meet and discuss ideas, new stuff, real life examples, innovations, opportunities and problems faced in the area of APIs."
+  maintainers:
+    - name: "George Psistakis"
+      site: "https://twitter.com/Giorgosps"
+    - name: "Dimitrios Tydeas Mengidis"
+      site: "https://twitter.com/dmtrsslvdr"
+    - name: "Fotis Xenikoudakis"
+      site: "https://twitter.com/fxenik"
+    - name: "Kostas Pardalis"
+      site: "https://twitter.com/KostasPardalis"
+    - name: "Michael Petychakis"
+      site: "https://twitter.com/mpetyx"
 
