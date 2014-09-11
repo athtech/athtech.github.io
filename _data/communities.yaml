@@ -141,4 +141,4 @@
   description: "Linking all Neo4j Graph Database developers around Greece to share experience and knowledge on Graph Databases, NoSQL and graph visualization techniques. A meetup(link or relationship) from developers to anyone interested in the future of database technology."
   maintainers:
     - name: "Sam Tsartsaris"
-    site: "https://twitter.com/Tsartsaris/"
+      site: "https://twitter.com/Tsartsaris/"
