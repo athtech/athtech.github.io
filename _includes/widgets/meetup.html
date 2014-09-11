@@ -10,7 +10,7 @@
       {% if include.meetup.happensAt %}
       <li><b>Happens At</b>: {{ include.meetup.happensAt }}</li>
       {% endif %}
-      <li><b>Website</b>: <a href="{{ include.meetup.website }}">{{ include.meetup.website }}</a></li>
+      <li><b>Website</b>: <a href="{{ include.meetup.website }}" target="_blank">{{ include.meetup.website }}</a></li>
       <li><b>Description</b>: {{ include.meetup.description }}</li>
       <li><b>Maintainers</b>:
         <ul class="maintainers">
@@ -19,7 +19,7 @@
               {% if maintainer.email %}
               <a href="mailto:{{ maintainer.email }}">{{ maintainer.name }}</a>
               {% elsif maintainer.website %}
-              <a href="{{ maintainer.website }}">{{ maintainer.name }}</a>
+              <a href="{{ maintainer.website }}" target="_blank">{{ maintainer.name }}</a>
               {% else %}
               {{ maintainer.name }}
               {% endif %}
