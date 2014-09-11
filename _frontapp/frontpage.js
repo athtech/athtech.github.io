@@ -13,7 +13,7 @@ var Front = module.exports = function() {
 };
 
 /** @const {number} Maximum events to display, use an even number */
-Front.MAX_EVENTS_SHOW = 8;
+Front.MAX_EVENTS_SHOW = 12;
 
 /**
  * Initialize the frontpage view.
