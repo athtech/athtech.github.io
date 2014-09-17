@@ -142,3 +142,13 @@
   maintainers:
     - name: "Sam Tsartsaris"
       website: "https://twitter.com/Tsartsaris/"
+- name: "Athens MongoDB User Group"
+  period: "Monthly (or so)"
+  website: http://www.meetup.com/Athens-MongoDB/
+  description: "This group is a place for developers, data analysts and BI experts to learn more about the non-relational, open source, document-oriented database MongoDB. Our goal is simply to share and exchange know-how, connect and have fun - online and offline. "
+  maintainers:
+    - name: Thanasis Efthymiou
+      website: "https://twitter.com/Thanasis_E"
+    - name: Alex Giamas
+      website: "https://twitter.com/agiamas"
+    - name: Ioannis Charitopoulo­s
