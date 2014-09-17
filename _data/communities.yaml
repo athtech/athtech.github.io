@@ -123,6 +123,7 @@
     - name: "Kostis Kapelonis"
     - name: "Spiros Anastasopoulos"
 - name: "API Athens"
+  period: "Monthly"
   website: "http://www.meetup.com/API-Athens/?"
   description: "This meetup is for people who build, use, explore or want to learn more about APIs. The purpose of this group is to meet and discuss ideas, new stuff, real life examples, innovations, opportunities and problems faced in the area of APIs."
   maintainers:
