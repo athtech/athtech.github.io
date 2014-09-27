@@ -153,3 +153,9 @@
     - name: Alex Giamas
       website: "https://twitter.com/agiamas"
     - name: Ioannis Charitopoulo­s
+- name: "Athens Scala Meetup"
+  period: "Monthly"
+  description: "This is a group for anyone interested in the Scala programming language, functional programming and programming languages in general."
+  maintainers:
+    - name: "Spiros Tzavellas"
+    website: "https://twitter.com/sptz45"
