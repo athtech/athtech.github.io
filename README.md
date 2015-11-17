@@ -96,7 +96,7 @@ cd meetups
 After cloning is finished you need to install the development dependencies:
 
 ```shell
-npm install && bower install
+npm install && bower install && bundle install
 ```
 
 ### Working with the project
