@@ -24,10 +24,10 @@ module.exports = function(grunt) {
         stdout: true,
       },
       jekyllServer: {
-        command: 'rm -rf _site/*; jekyll build --watch',
+        command: 'rm -rf _site/*; bundle exec jekyll build --watch',
       },
       jekyllBuild: {
-        command: 'rm -rf _site/*; jekyll build',
+        command: 'rm -rf _site/*; bundle exec jekyll build',
       }
     },
     less: {
