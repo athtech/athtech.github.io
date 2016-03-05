@@ -1,5 +1,7 @@
 # [athtech.github.io](http://athtech.org)
 
+[![slack](http://athtech.zorbash.com/badge.svg)](http://athtech.zorbash.com/)
+
 Athens's tech and developer Events, Meetups & News.
 
 ## Meetup Organizers
