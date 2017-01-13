@@ -25,8 +25,8 @@ Front.prototype.init = function() {
   this.$error = $('#agenda-error');
 
   this.calendarth = calendarth({
-    apiKey: 'AIzaSyCccutOwOmeR_0gKxpOk5YUbEPLyMC8WWM',
-    calendarId: 'oo1mlkql8sma2b3pkg6i23qtdc@group.calendar.google.com',
+    apiKey: 'AIzaSyA855szSbiHGqSQj6KkSbGIZ9fV4ooN5Wk',
+    calendarId: 'athtechorg@gmail.com',
     maxResults: 12
   });
 

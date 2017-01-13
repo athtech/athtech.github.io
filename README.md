@@ -6,7 +6,7 @@ Athens's tech and developer Events, Meetups & News.
 
 ## Meetup Organizers
 
-ATHTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=oo1mlkql8sma2b3pkg6i23qtdc%40group.calendar.google.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within this repository and [reside in the _data/agenda.yaml file](https://github.com/athtech/athtech.github.io/blob/master/_data/agenda.yaml). The *Pinned* events will appear after all the Calendar events.
+ATHTech is using a [Public Google Calendar](https://www.google.com/calendar/embed?src=athtechorg@gmail.com&ctz=Europe/Athens) for storing and reading the events and meetups. We also retain very few *Pinned* events that are edited only within this repository and [reside in the _data/agenda.yaml file](https://github.com/athtech/athtech.github.io/blob/master/_data/agenda.yaml). The *Pinned* events will appear after all the Calendar events.
 
 What you need to do is create a new Calendar event from your Gmail account and invite the ATHTech Public Calendar:
 
@@ -59,7 +59,7 @@ Language: Greek
 You need to paste the following email address in the "Add Guests" field and press the "Add" button:
 
 ```
-oo1mlkql8sma2b3pkg6i23qtdc@group.calendar.google.com
+athtechorg@gmail.com
 ```
 
 We know this is hard to remember so if you are a frequent event organizer then it would make sense to create a new contact "ATHTech Calendar" and save the email there...
